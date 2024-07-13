@@ -14,12 +14,13 @@ Welcome to the Sales Analysis Report repository for AtliQ Hardware. This report 
  - **Data-Driven Decisions:** Leverage sales data to identify patterns and track key performance indicators (KPIs).
  - **Strategic Insights:** Help in determining effective customer discounts, negotiating with consumers, and identifying expansion opportunities.
 ## 🔍 Reports Overview:
- - **Customer Performance Report:** Analyzes customer performance metrics to identify high and low-performing customers. View Report
-- **Market Performance vs. Target Report:** Compares actual market performance against sales targets to identify gaps and opportunities. View Report
- - **Growth % of Top 10 Products in 2021 vs. 2020:** Analyzes the growth percentage of top products year-over-year to understand product performance trends. View Report
- - **Top 5 and Bottom 5 Products Sold in 2021:** Highlights the best and worst-performing products to guide inventory and marketing strategies. View Report
- - **Top 5 Countries:** Provides a breakdown of sales performance by country to identify key markets. View Report
- - **New Products in 2021:** Evaluates the performance of newly launched products to inform future product development and marketing strategies. View Report
+ - **Customer Performance Report:** Analyzes customer performance metrics to identify high and low-performing customers. [View Report](https://github.com/DataWizardGuru/Advance_Excel_For_Sales_Analytics_Report/blob/main/Customer%20Performane%20report.pdf)
+- **Market Performance vs. Target Report:** Compares actual market performance against sales targets to identify gaps and opportunities. [View Report](https://github.com/DataWizardGuru/Advance_Excel_For_Sales_Analytics_Report/blob/main/Market%20Performance%20vs%20Target%20report.pdf)
+ - **Growth % of Top 10 Products in 2021 vs. 2020:** Analyzes the growth percentage of top products year-over-year to understand product performance trends. [View Report](https://github.com/DataWizardGuru/Advance_Excel_For_Sales_Analytics_Report/blob/main/Growth%20%25%20of%20Top%2010%20products%20in%202021%20vs%202020%20report.pdf)
+ - **Top 10 Products Performance:** Analyzed top 10 products based on sales over the years.[View Report](https://github.com/DataWizardGuru/Advance_Excel_For_Sales_Analytics_Report/blob/main/Top%2010%20products.pdf)
+ - **Top 5 and Bottom 5 Products Sold in 2021:** Highlights the best and worst-performing products to guide inventory and marketing strategies. [View Report](https://github.com/DataWizardGuru/Advance_Excel_For_Sales_Analytics_Report/blob/main/Top%205%20and%20Bottom%205%20products%20sold%20in%20202%20report.pdf)
+ - **Top 5 Countries:** Provides a breakdown of sales performance by country to identify key markets. [View Report](https://github.com/DataWizardGuru/Advance_Excel_For_Sales_Analytics_Report/blob/main/Top%205%20countries.pdf)
+ - **New Products in 2021:** Evaluates the performance of newly launched products to inform future product development and marketing strategies. [View Report](https://github.com/DataWizardGuru/Advance_Excel_For_Sales_Analytics_Report/blob/main/New%20Products%20in%202021.pdf)
 ## 🌟 Highlights
  - **Detailed Analysis:** Each report provides in-depth insights into various aspects of sales performance.
  - **Visual Representation:** Easy-to-understand graphs and charts for quick comprehension.
